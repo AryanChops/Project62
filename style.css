@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+   font-size: 50;
+   font-weight: bold;
+}
+#img_home {
+   width: 1500;
+   height: 800;
+}
+#menu {
+    padding: 5px 0 5px 0;
+    background-color: aqua;
+}
+    
+.menu1 li {
+    padding: 0 50px 0 50px;
+   display: inline;
+    font-size: 20;
+    font-family: cursive;
+    font-weight: bolder;
+}
+.row {
+    flex: 25%;
+    max-width: 100%;
+    padding: 0 4px;
+}
+
+#myCarousel  {
+    display: inline;
+    align-items: center;
+    backgalign-itemsolor: white;
+    width: 1200px; 
+    height: 700px;
+}
+.grid_img {
+    width: 350px;
+    height: 200px;
+    }
